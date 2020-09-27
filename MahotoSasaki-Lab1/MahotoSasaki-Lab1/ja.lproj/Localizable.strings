@@ -1,0 +1,58 @@
+/* 
+  Localizable.strings
+  MahotoSasaki-Lab1
+
+  Created by Mahoto Sasaki on 9/11/20.
+  Copyright © 2020 mo3aru. All rights reserved.
+*/
+"Alabama" = "アラバマ";
+"Alaska" = "アラスカ";
+"Arizona" = "アリゾナ";
+"Arkansas" = "アーカンソー";
+"California" = "カリフォルニア";
+"Colorado" = "コロラド";
+"Conneticut" = "コネティカット";
+"Delaware" = "デラウエア";
+"Florida" = "フロリダ";
+"Georgia" = "ジョージア";
+"Hawaii" = "ハワイ";
+"Idaho" = "アイダホ";
+"Illinois" = "イリノイ";
+"Indiana" = "インディアナ";
+"Iowa" = "アイオワ";
+"Kansas" = "カンザス";
+"Kentucky" = "ケンタッキ";
+"Louisiana" = "ルイジアナ";
+"Maine" = "メイン";
+"Maryland" = "メリーランド";
+"Massachusetts" = "マサチューセッツ";
+"Michigan" = "ミシガン";
+"Minnesota" = "ミネソタ";
+"Mississippi" = "ミシシッピー";
+"Missouri" = "ミズーリ";
+"Montana" = "モンタナ";
+"Nebraska" = "ネブラスカ";
+"Nevada" = "ネバダ";
+"New Hampshire" = "ニューハンプシャー";
+"New Jersey" = "ニュージャージー";
+"New Mexico" = "ニューメキシコ";
+"New York" = "ニューヨーク";
+"North Carolina" = "ノースカロライナ";
+"North Dakota" = "ノースダコタ";
+"Ohio" = "オハイオ";
+"Oklahoma" = "オクラホマ";
+"Oregon" = "オレゴン";
+"Pennsylvania" = "ペンシルバニア";
+"Rhode Island" = "ロードアイランド";
+"South Carolina" = "サウスカロライナ";
+"South Dakota" = "サウスダコタ";
+"Tennessee" = "テネシー";
+"Texas" = "テキサス";
+"Utah" = "ユタ";
+"Vermont" = "バーモント";
+"Virginia" = "バージニア";
+"Washington" = "ワシントン";
+"West Virginia" = "ウェストバージニア";
+"Wisconsin" = "ウィスコンシン";
+"Wyoming" = "ワイオミング";
+"District of Columbia" = "ディストリクトオブコロンビア";

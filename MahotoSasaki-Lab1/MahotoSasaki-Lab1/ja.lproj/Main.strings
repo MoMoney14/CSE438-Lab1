@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "Final Price"; ObjectID = "4Yj-cb-5pv"; */
+"4Yj-cb-5pv.text" = "合計";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7LT-PU-dHh"; */
+"7LT-PU-dHh.text" = "ラベル";
+
+/* Class = "UIButton"; normalTitle = "Select State"; ObjectID = "8QF-gS-gEA"; */
+"8QF-gS-gEA.normalTitle" = "州を選ぶ";
+
+/* Class = "UILabel"; text = "Discount %"; ObjectID = "ELm-3M-ddG"; */
+"ELm-3M-ddG.text" = "割引率 %";
+
+/* Class = "UILabel"; text = "Sales Tax %"; ObjectID = "WZb-RV-LsG"; */
+"WZb-RV-LsG.text" = "消費税 %";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "hgG-4Q-eq4"; */
+"hgG-4Q-eq4.normalTitle" = "終わり";
+
+/* Class = "UILabel"; text = "My Shopping Calculator"; ObjectID = "ngZ-cA-TSM"; */
+"ngZ-cA-TSM.text" = "お会計計算機";
+
+/* Class = "UILabel"; text = "Original Price"; ObjectID = "xLj-BC-aqx"; */
+"xLj-BC-aqx.text" = "もとの値段";
